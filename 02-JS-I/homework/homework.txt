@@ -1,0 +1,5 @@
+Variables: en ellas almacenamos el valor de algo para después usarlo en el programa
+Strings: son bloques de texto, siempre se van a definir entre comillas
+Funciones: es una sección del programa que dentro hace distintos cálculos, lo podemos usar también para no repetir líneas de código, los argumentos son los valores que vamos a poder pasarle a la función para hacer distintas operaciones con ellos dentro de la función. Return es la forma de devolver un valor dentro de una función.
+If: forma de orientar el código y controlar el flujo del mismo dependiendo de una condición. 
+Valores Booleanos: Para saber si algo es verdadero o falso
