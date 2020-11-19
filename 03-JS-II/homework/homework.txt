@@ -1,0 +1,6 @@
+for: estructura para repetir código, le tendremos que pasar el valor inicial, la condicion que se tendra que cumplir para que deje de repetirse y el incremento que hara que el valor inicial llegue a la condicion. 
+
+Operadores lógicos: para comparar dos o más expresiones y preguntarnos si son verdaderas o ninguna de ellas lo es. Tenemos:
+    && (AND/Y): para que esta se cumpla todas las expresiones tienen que ser verdaderas, si alguna es falsa devolverá un false.
+    || (OR/O): para que no se cumpla todas las expresiones tienen que ser falsas, si alguna es verdadera devolverá un true.
+    ! (NOT/NEGACIÓN): esto convierte una expresion en lo opuesto, si es false la convierte a true y si es true la converte en false
