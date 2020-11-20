@@ -1,0 +1,1 @@
+Array: el array es una lista de elementos, estos elementos pueden ser de cualquier tipo (numbers, strings, funciones, otros arreglos). Los array nos van a servir para guardar distintos elementos y despues poder acceder a los mismos. Es como una variable pero que puede almacenar la cantidad de valores que queramos.
