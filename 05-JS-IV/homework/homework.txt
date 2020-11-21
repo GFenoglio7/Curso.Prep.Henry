@@ -1,0 +1,11 @@
+Objetos: los objetos pueden contener mucha informacion sobre una sola cosa, los objetos son una coleccion de propiedades. Por ejemplo si queremos hacer la definición de todos los alumnos que tenemos en un curso, debemos crear un objeto llamado alumno que contenga las propiedades (nombre, edad, nacionalidad) de cada alumno
+
+Propiedades: asociacion entre una clave y un valor (key:value). Se podría explicar como una variable que está en el objeto, estas definen las caracteristicas de un objeto
+
+Métodos: se le llaman metodos a las funciones que tenemos dentro de un objeto 
+
+Bucle (for..in): Lo utilizamos para iterar sobre cada par clave:valor en nuestro objeto. Esto lo hacemos así porque los objetos no contienen índices numéricos para hacerlo por un bucle tradicional. 
+
+Notación de puntos vs notación de corchetes: son dos formas de acceder a los valores de un objeto. 
+    La notación de puntos (Dot Notation) --> objeto.propiedad
+    La notación de corchetes (Bracket Notation) --> objeto.['propiedad']
