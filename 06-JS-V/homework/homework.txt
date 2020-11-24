@@ -1,0 +1,3 @@
+prototype: para establecer método una unica vez a una clase y dar acceso a la misma a cada objeto de la Clase.
+
+Constructor de clases: es un método de la clase, se usa para establecer las propiedades del objeto o para llamar a los métodos para preparar el objeto para su uso.
