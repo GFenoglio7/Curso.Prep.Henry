@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(56, 53, 53);
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h3, h4{
+    color: white;
+}
+
+span{
+    color: white;
+}
+
+a{
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: antiquewhite;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+#spanId{
+    font-size: 18px;
+}
+
+li{
+    list-style: none;
+}
